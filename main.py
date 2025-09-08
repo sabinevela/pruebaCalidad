@@ -2,7 +2,7 @@ import functions_framework
 
 @functions_framework.http
 def hello_http(request):
-    """HTTP Cloud Function.
+    """HTTP Cloud Function.P
     Args:
         request (flask.Request): The request object.
         <https://flask.palletsprojects.com/en/1.1.x/api/#incoming-request-data>
